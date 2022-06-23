@@ -18,4 +18,10 @@
         android:layout_marginTop="50dp"
         android:text="Boton que no hace nada" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="Otro Boton que no hace nada" />
+
 </RelativeLayout>
